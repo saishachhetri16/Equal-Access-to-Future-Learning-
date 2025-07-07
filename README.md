@@ -29,4 +29,3 @@ Community involvement plays a strong role in sustaining learning equality. Local
 Public-private partnerships can also drive massive change. By pooling resources and expertise, companies and governments can launch large-scale projects that address disparities in infrastructure, teacher availability, and digital literacy. When such partnerships prioritize long-term results over short-term fixes, the education ecosystem becomes stronger and more resilient.
 
 In conclusion, ensuring equal access to future learning is not a one-step solution—it’s a long-term mission. It will require collaboration, innovation, and commitment from every stakeholder—governments, schools, communities, and tech providers. By building inclusive systems today, we can create a future where all students, regardless of where they come from, have the tools and opportunities they need to succeed.
-
